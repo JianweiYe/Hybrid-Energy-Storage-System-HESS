@@ -1,4 +1,5 @@
 # Knowledge-Map-for-HESS
+![](https://img.shields.io/github/tag//JianweiYe/Hybrid-Energy-Storage-System-HESS/README.md.svg) ![](https://img.shields.io/github/release/pandao/editor.md.svg) ![](https://img.shields.io/github/issues/pandao/editor.md.svg) ![](https://img.shields.io/bower/v/editor.md.svg)
 Knowledge framework of energy storage systems for vehicles using mind mapping
 
 ## 项目初衷
